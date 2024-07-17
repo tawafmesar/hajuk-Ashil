@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 
-
 <head>
-
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="description" content="">
@@ -36,30 +34,16 @@
 
     <body>
 
-<!-- ***** Preloader Start ***** -->
-    <!-- <div id="preloader">
-    <div class="jumper">
 
-                    <div></div>
-            <div></div>
-                <div></div>
-            </div>
-        </div>    -->
-        <!-- ***** Preloader End ***** -->
-
-    
-            <!-- ***** Header Area Start ***** -->
 <header class="header-area header-sticky">
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <nav class="main-nav">
-                    <!-- ***** Logo Start ***** -->
                     <a href="index.php" class="logo">
                         <img class="imgg" src="assets/images/logo.png"  alt="Softy Pinko"/>
                     </a>
-                    <!-- ***** Logo End ***** -->
-                    <!-- ***** Menu Start ***** -->
+
                     <ul class="nav">
                         <li><a href="index.php" class="active">الرئيسية</a></li>
                         <li><a href="hamalt.php">الحملات</a></li>
@@ -98,10 +82,8 @@
                         <a class='menu-trigger'>
                             <span>Menu</span>
                         </a>
-                        <!-- ***** Menu End ***** -->
                     </nav>
                 </div>
                 </div>
     </div>
         </header>
-        <!-- ***** Header Area End ***** -->
