@@ -41,4 +41,3 @@ To get a local copy of this project up and running, follow these steps:
 
 ---
 
-Feel free to customize the repository link and any other details to match your project specifics.
